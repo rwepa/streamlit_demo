@@ -1,5 +1,5 @@
-# 檔案: 02_penguins_streamlit.py
-# 位置: CD D:\00.streamlit_data_codes\Streamlit-for-Data-Science-main\penguin_ml
+# 檔案: penguins_streamlit.py
+# 位置: streamlit_demo
 # 2025.2.9 23:55 OK
 
 import pickle
@@ -21,7 +21,7 @@ st.write(
      Use the form below to get started!"""
 )
 
-password_guess = st.text_input("What is the Password?")
+password_guess = st.text_input("What is the Password? Hint: rwepa")
 # if password_guess != "streamlit_is_great":
 if password_guess != "rwepa":
     st.stop()
