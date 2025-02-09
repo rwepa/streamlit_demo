@@ -1,6 +1,6 @@
 # 檔案: 02_penguins_streamlit.py
 # 位置: CD D:\00.streamlit_data_codes\Streamlit-for-Data-Science-main\penguin_ml
-# 2025.2.9 23:55 執行OK
+# 2025.2.9 23:55 OK
 
 import pickle
 
